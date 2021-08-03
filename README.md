@@ -13,3 +13,4 @@ This program takes an input .ppm image (labeled input.ppm).
 It will output output_1.ppm, output_2.ppm, and output_3.ppm. These correspond to the above prompt.
 It will then output bargraph.ppm which outputs the frequencies of all R, G, and B values as a bar graph in each colors' respective color. 
 
+I added the input image I used as well as the outputs I recieve after running my program.
